@@ -2,7 +2,7 @@
 
 Monitor the deployed asthma model in production-like conditions: data drift, target drift, and classification quality over time.
 
-## What this lab covers
+## What this project covers
 
 - Load **reference** data (historical patients) and **current** predictions from PostgreSQL
 - Build **Evidently** reports:
